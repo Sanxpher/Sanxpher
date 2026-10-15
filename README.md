@@ -30,7 +30,7 @@ My goal is to merge my solid technical foundation with my lifelong passion for g
 
 ## 🚀 Featured Projects
 
-*   **[Your Game Project Name]** (In Development) - A top-down hack-and-slash inspired by classic flash games. Built with Unity and C#. (Link to the repository will be here soon!)
+*   **(In Development)** - A top-down hack-and-slash inspired by classic flash games. Built with Unity and C#. (Link to the repository will be here soon!)
 *   **[Network & Security Lab]** - Practical implementation of a virtualized corporate network infrastructure, involving Linux servers, IP addressing, DNS, routing, firewalls, and SSH.
 
 ## 🌐 Connect with me
