@@ -24,10 +24,17 @@ Currently, I'm building hands-on projects with **Linux, Docker, Kubernetes, Pyth
 ![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
+**Frameworks & Databases:**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 ## 🚀 Featured Projects
 
-*   **[devops-lab]** (In Development) - Hands-on infrastructure lab with Docker, Kubernetes, CI/CD pipelines, and Infrastructure as Code. (Link coming soon!)
-*   **[Network & Security Lab]** - Practical implementation of a virtualized corporate network infrastructure, involving Linux servers, IP addressing, DNS, routing, firewalls, and SSH.
+*   **[devops-lab](https://github.com/Sanxpher/devops-lab)** - A complete DevOps lab featuring a REST API built with **Python (Flask)** and **PostgreSQL**. 
+    *   **Infrastructure:** Containerized with **Docker** and orchestrated via **Docker Compose**.
+    *   **Key Features:** Persistent volumes for database storage, isolated internal networks for service communication, and **Healthchecks** to ensure service dependencies are met before startup.
+    *   **Security:** Environment variables managed via `.env` (excluded from version control via `.gitignore`).
 
 ## 🌐 Connect with me
 
